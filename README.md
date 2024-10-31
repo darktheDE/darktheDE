@@ -4,8 +4,7 @@
 I’m a Data Engineer with a passion for Big Data Processing and Backend Development (but no project yet xD). 
 
 - 🌱 I’m currently learning: C#, Java, Python, Git
-- 📫 How to reach me: [your email or preferred contact method, e.g., LinkedIn, Twitter handle]
-
+  
 ## 🛠️ Languages and Tools
 - **Languages:** Python, Java, C#
 - **Frameworks/Libraries:** Pandas, NumPy, Matplotlib, Dotnet
