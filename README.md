@@ -13,8 +13,8 @@ I’m a Data Engineer with a passion for Big Data Processing and Backend Develop
 
 
 ## 🌐 Connect with Me
-- (https://www.facebook.com/dkh1105/)(URL)
-- (https://www.linkedin.com/in/darkthede/)(URL)
+- (https://www.facebook.com/dkh1105/)
+- (https://www.linkedin.com/in/darkthede/)
 
 Thanks for stopping by, and happy coding! 😄
  
