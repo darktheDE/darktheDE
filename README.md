@@ -1,9 +1,9 @@
 # Hi there 👋, I'm @darktheDE!
 
 ## 🚀 About Me
-I’m a Data Engineer with a passion for Big Data Processing and Backend Development (but no project yet xD). 
+I’m a second year - student majoring Data Engineer with a passion for Big Data and Backend Development (but no project yet xD). 
 
-- 🌱 I’m currently learning: C#, Java, Python, Git
+- 🌱 I’m currently learning: DSA, OOP, Python, CAAL, CCNA
   
 ## 🛠️ Languages and Tools
 - **Languages:** Python, Java, C#
