@@ -3,17 +3,17 @@
 ## 🚀 About Me
 I’m a second year student majoring Data Engineer with a passion for Big Data and Backend Development (but no project yet xD). 
 
-- 🌱 I’m currently learning: DSA, OOP, Python, CAAL, CCNA
+- 🌱 I’m currently learning: DSA, OOP, Python, CAAL, CCNA, SQL, JavaScript
   
 ## 🛠️ Languages and Tools
-- **Languages:** Python, Java, C#
+- **Languages:** Python, Java, C#, C++
 - **Frameworks/Libraries:** Pandas, NumPy, Matplotlib, Dotnet
 - **Tools:** Git, VS Code
 
 
 ## 🌐 Connect with Me
-- (https://www.facebook.com/dkh1105/)
-- (https://www.linkedin.com/in/darkthede/)
+- (Facebook)(https://www.facebook.com/dkh1105/)
+- (Linkedin)(https://www.linkedin.com/in/darkthede/)
 
 Thanks for stopping by, and happy coding! 😄
  
