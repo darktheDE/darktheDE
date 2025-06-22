@@ -3,6 +3,10 @@
 ## 🚀 About Me
 I'm **Đỗ Kiến Hưng** – a third-year student majoring in **Data Engineering - Ho Chi Minh City University of Technology and Education** .  
 I’m passionate about **Big Data**, **Backend Development**, and **Academic Projects** that blend technical skills with real-world impact.
+👨‍💻 I'm an active member - vice leader of a new **university programming club: HCMUTE RTIC** , taking part in:
+- Academic & Research Projects
+- Web Hub development (BA role, BE role, full stack architecture understanding)
+- Club knowledge sharing
 
 ## 🔍 Currently exploring and learning:
 - **Big Data Processing** with Apache Spark & Hadoop  
@@ -10,11 +14,6 @@ I’m passionate about **Big Data**, **Backend Development**, and **Academic Pro
 - **Backend Development** with FastAPI, Spring Boot, PostgreSQL, MongoDB  
 - **Information Security**, **Operating Systems**, and **Computer Networking (CCNA)**  
 - **Business Analysis** for real IT projects (writing BRD, Use Case, DB design, etc.)
-
-## 👨‍💻 I'm an active member - vice leader of a new **university programming club: HCMUTE RTIC** , taking part in:
-- Academic & Research Projects
-- Web Hub development (BA role, BE role, full stack architecture understanding)
-- Club knowledge sharing
 
 ## 🧠 I'm Learning
 - **Programming:** Python, Java, C++, C#, JavaScript, R, TypeScript
@@ -27,7 +26,7 @@ I’m passionate about **Big Data**, **Backend Development**, and **Academic Pro
 ## 🌐 Connect with Me
 - [📘 Facebook](https://www.facebook.com/dkh1105/)  
 - [💼 LinkedIn](https://www.linkedin.com/in/darkthede/)  
-- [💬 GitHub Discussions](https://github.com/darktheDE) – open for collab & learning exchange!
+- [💬 GitHub Discussions](https://github.com/darktheDE)
 
 ---
 
