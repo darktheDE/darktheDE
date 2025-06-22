@@ -4,7 +4,7 @@
 I'm **Đỗ Kiến Hưng** – a third-year student majoring in **Data Engineering** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.  
 I'm passionate about **Big Data**, **Backend Development**, and **Academic Projects** that blend technical skills with real-world impact.
 
-I'm also the **vice leader** of **HCMUTE RTIC** – a newly established university programming club, where I contribute to:
+I'm also the **vice leader** of [HCMUTE RTIC](https://www.facebook.com/hcmute.rtic) – a newly established university programming club, where I contribute to:
 - Academic & Research Projects  
 - Web Hub Development (BA role, BE role, full-stack architecture understanding)  
 - Club knowledge sharing and tech sessions
