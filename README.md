@@ -1,17 +1,17 @@
 # 👋 Hi there, I'm @darktheDE!
 
 ## 🚀 About Me
-I'm Đỗ Kiến Hưng – a third-year student majoring in **Data Engineering - Ho Chi Minh City University of Technology and Education** .  
+I'm **Đỗ Kiến Hưng** – a third-year student majoring in **Data Engineering - Ho Chi Minh City University of Technology and Education** .  
 I’m passionate about **Big Data**, **Backend Development**, and **Academic Projects** that blend technical skills with real-world impact.
 
-🔍 Currently exploring and learning:
+## 🔍 Currently exploring and learning:
 - **Big Data Processing** with Apache Spark & Hadoop  
 - **Data Analysis & Visualization** with Python (Pandas, NumPy, Matplotlib) and R  
 - **Backend Development** with FastAPI, Spring Boot, PostgreSQL, MongoDB  
 - **Information Security**, **Operating Systems**, and **Computer Networking (CCNA)**  
 - **Business Analysis** for real IT projects (writing BRD, Use Case, DB design, etc.)
 
-👨‍💻 I'm an active member - vice leader of a new **university programming club: HCMUTE RTIC** , taking part in:
+## 👨‍💻 I'm an active member - vice leader of a new **university programming club: HCMUTE RTIC** , taking part in:
 - Academic & Research Projects
 - Web Hub development (BA role, BE role, full stack architecture understanding)
 - Club knowledge sharing
