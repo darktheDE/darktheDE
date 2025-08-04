@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm **Đỗ Kiến Hưng** – a third-year student majoring in **Data Engineering** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.  
-I'm passionate about **Big Data**, **Backend Development**, and **Academic Projects** that blend technical skills with real-world impact.
+I'm passionate about **Big Data Engineering**, **Backend Development**, and **Academic Projects** that blend technical skills with real-world impact.
 
 I'm also the **vice leader** of [HCMUTE RTIC](https://www.facebook.com/hcmute.rtic) – a newly established university programming club, where I contribute to:
 - Academic & Research Projects  
@@ -12,8 +12,7 @@ I'm also the **vice leader** of [HCMUTE RTIC](https://www.facebook.com/hcmute.rt
 ## 🔍 Currently exploring and learning:
 - **Big Data Processing** with Apache Spark & Hadoop  
 - **Data Analysis & Visualization** with Python (Pandas, NumPy, Matplotlib) and R  
-- **Backend Development** with FastAPI, Spring Boot, PostgreSQL, MongoDB  
-- **Information Security**, **Operating Systems**, and **Computer Networking (CCNA)**  
+- **Backend Development** with FastAPI, Spring Boot, PostgreSQL  
 - **Business Analysis** for real IT projects (writing BRD, Use Case, DB design, etc.)
 
 ## 🧠 I'm Learning
