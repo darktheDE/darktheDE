@@ -15,13 +15,6 @@ I'm also the **vice leader** of [HCMUTE RTIC](https://www.facebook.com/hcmute.rt
 - **Backend Development** with FastAPI, Spring Boot, PostgreSQL  
 - **Business Analysis** for real IT projects (writing BRD, Use Case, DB design, etc.)
 
-## 🧠 I'm Learning
-- **Programming:** Python, Java, C++, C#, JavaScript, R, TypeScript
-- **Concepts:** DSA, OOP, CAAL, BA, OS, Security, SQL  
-- **Technologies:** Apache Spark, PySpark, Docker, Git, REST APIs, Hadoop (HDFS, MapReduce)
-- **Frameworks/Libraries:** Pandas, NumPy, Matplotlib
-- **Tools:** Git, VS Code, Docker, Jupyter, Postman  
-- **Databases:** PostgreSQL, SQL Server  
 
 ## 🌐 Connect with Me
 - [📘 Facebook](https://www.facebook.com/dkh1105/)  
