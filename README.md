@@ -8,6 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/darktheDE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dkh1105.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat&logo=macos&logoColor=white)](https://darkthede.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-FF6700?style=flat&logo=rss&logoColor=white)](https://darkthede-web.vercel.app/blog)
 
 </div>
 
@@ -18,8 +19,6 @@
 Data Engineering student at Ho Chi Minh City University of Technology and Engineering (**HCM-UTE**), passionate about building data pipelines and backend systems. Co-founder of [**HCMUTE RTIC**](https://www.facebook.com/hcmute.rtic), Teaching Assistant for Database Systems, and Freelance Business Analyst.
 
 - **GPA:** 8.41 / 10.0
-- **Currently Learning:** Data Lakehouse (Apache Iceberg, Trino), Distributed Systems
-
 ---
 
 ## Tech Stack
@@ -42,10 +41,6 @@ Data Engineering student at Ho Chi Minh City University of Technology and Engine
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,terraform,kubernetes" />
 </a>
 
-**Tools & Platforms**
-
-PySpark · Delta Lake · Apache Iceberg · Trino · MinIO · Apache Airflow · Airbyte · n8n · Power BI · Looker Studio · Apache Superset · Pandas
-
 ---
 
 ## Projects
@@ -58,17 +53,6 @@ PySpark · Delta Lake · Apache Iceberg · Trino · MinIO · Apache Airflow · A
 [![Airline DWH](https://img.shields.io/badge/Airline%20DWH-Flight%20Analytics-6366f1?style=flat&logo=apacheairflow&logoColor=white)](https://github.com/darktheDE/airline-dwh)
 
 ---
-
-## GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/darktheDE/github-readme-stats">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=darktheDE&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/darktheDE/github-readme-stats">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darktheDE&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" />
-  </a>
-</div>
 
 <br/>
 
