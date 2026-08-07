@@ -1,78 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=003366&height=200&section=header&text=Do%20Kien%20Hung&fontSize=70&fontColor=ffffff&desc=Data%20Engineer%20Student&descSize=20&descAlignY=65" />
+
+# Hi, I'm Do Kien Hung 👋
+
+**Data Engineering Student** at HCM-UTE
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/darkthede)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/darktheDE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dkh1105.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat&logo=macos&logoColor=white)](https://darkthede.github.io/)
+
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/darkthede" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/dkh1105/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:dkh1105.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://darkthede.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br/>
+---
 
 ## About Me
 
-I am a **Data Engineering student** at Ho Chi Minh City University of Technology and Engineering (**HCM-UTE**). I have a deep passion for exploring how data moves and transforms to create value. I enjoy building data pipelines, working with backend systems, and constantly learning new ways to build better software.
+Data Engineering student at Ho Chi Minh City University of Technology and Engineering (**HCM-UTE**), passionate about building data pipelines and backend systems. Co-founder of [**HCMUTE RTIC**](https://www.facebook.com/hcmute.rtic), Teaching Assistant for Database Systems, and Freelance Business Analyst.
 
-- **Academics:** Data Engineering Major (GPA: **8.41/10.0**).
-- **Mentorship:** **Teaching Assistant** for Database Systems.
-- **Leadership:** Co-founder at [**HCMUTE RTIC**](https://www.facebook.com/hcmute.rtic), sharing the love for tech and innovation with my peers.
-- **Professional:** Freelance **Business Analyst**.
-- **Learning:** Currently diving into **Data Lakehouse** (Apache Iceberg, Trino) and **Distributed Systems**.
+- **GPA:** 8.41 / 10.0
+- **Currently Learning:** Data Lakehouse (Apache Iceberg, Trino), Distributed Systems
 
 ---
 
-## Tech Stack & Arsenal
+## Tech Stack
 
-### Languages & Frameworks
+**Languages & Scripting**
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,ts,r,spring,nextjs,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=py,java,bash,scala,r" />
 </a>
 
-### Data Engineering & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,aws,azure,linux,ubuntu,docker" />
-</a>  
-*(+ Apache Spark, Apache Airflow, Delta Lake, Apache Iceberg, Trino, MinIO, SSIS, SSAS)*
+**Data Storage & Processing**
 
-### Business Intelligence & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,notion" />
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,kafka,elasticsearch,mongodb,cassandra" />
 </a>
-*(+ Power BI, Scrum/Agile)*
+
+**Cloud & Infrastructure**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,terraform,kubernetes" />
+</a>
+
+**Tools & Platforms**
+
+PySpark · Delta Lake · Apache Iceberg · Trino · MinIO · Apache Airflow · Airbyte · n8n · Power BI · Looker Studio · Apache Superset · Pandas
 
 ---
 
-## Highlighted Projects
+## Projects
 
-### [UTE Phone Hub](https://github.com/darktheDE/ute-phonehub)
-*Modern E-commerce Platform with BFF Architecture*
-- **Description:** A modular monolithic platform for mobile commerce, featuring a decoupled Frontend (Next.js) and Backend (Spring Boot). Integrated VNPay/Momo and AI Chatbots.
-- **Core Tech:** `Spring Boot 3.5`, `Next.js 16`, `PostgreSQL`, `Redis`, `Docker`, `Zustand`.
-
-### [Airline Operations Data Warehouse](https://github.com/darktheDE/airline-dwh)
-*Comprehensive Multidimensional Analytics for Flight Performance*
-- **Description:** End-to-end DWH system analyzing 2015 U.S. domestic flights correlated with FAA registry data. Implemented Kimball methodology with full OLAP capabilities.
-- **Core Tech:** `MS SQL Server`, `SSIS` (ETL), `SSAS` (OLAP Cube), `Power BI`, `SCD Type 2`.
-
-### [Olist E-Commerce Data Lakehouse](https://github.com/darktheDE/Olist-E-Commerce-Lakehouse)
-*End-to-End Medallion Architecture on Local Infrastructure*
-- **Description:** Built a robust Data Lakehouse using Medallion architecture (Bronze/Silver/Gold). Localized Docker environment mimicking enterprise cloud data platforms.
-- **Core Tech:** `PySpark`, `Delta Lake`, `Apache Airflow`, `MinIO`, `Hive Metastore`.
-
-### [Gene Expression Clustering](https://github.com/darktheDE/gene-expression-ensemble-clustering)
-*Weighted SCENA Ensemble Learning for Cancer Classification*
-- **Description:** ML architecture combining K-Means++, Hierarchical, and DBSCAN clustering using adaptive weighting to classify cancer subtypes from high-dimensional RNA-Seq data.
-- **Core Tech:** `Python`, `Scikit-learn`, `PCA`, `Streamlit`, `Plotly`.
+[![Olist Lakehouse](https://img.shields.io/badge/Olist%20Lakehouse-Data%20Lakehouse-0ea5e9?style=flat&logo=apachespark&logoColor=white)](https://github.com/darktheDE/Olist-E-Commerce-Lakehouse)
+[![VN Banking DWH](https://img.shields.io/badge/VN%20Banking%20DWH-Financial%20Analytics-8b5cf6?style=flat&logo=apacheairflow&logoColor=white)](https://github.com/darktheDE/vn-banking-dwh-analytics)
+[![VN Air Quality](https://img.shields.io/badge/VN%20Air%20Quality-Streaming%20Pipeline-10b981?style=flat&logo=apachekafka&logoColor=white)](https://github.com/darktheDE/vn-air-quality-data-platform)
+[![Healthcare Lakehouse](https://img.shields.io/badge/Healthcare%20Lakehouse-COVID-19%20Analytics-f59e0b?style=flat&logo=apachespark&logoColor=white)](https://github.com/darktheDE/healthcare-lakehouse-covid19)
+[![Food Sentiment](https://img.shields.io/badge/Food%20Sentiment-Big%20Data%20Pipeline-ef4444?style=flat&logo=apacheairflow&logoColor=white)](https://github.com/darktheDE/food-sentiment-analytics-platform)
+[![Airline DWH](https://img.shields.io/badge/Airline%20DWH-Flight%20Analytics-6366f1?style=flat&logo=apacheairflow&logoColor=white)](https://github.com/darktheDE/airline-dwh)
 
 ---
 
@@ -80,10 +63,10 @@ I am a **Data Engineering student** at Ho Chi Minh City University of Technology
 
 <div align="center">
   <a href="https://github.com/darktheDE/github-readme-stats">
-    <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=darktheDE&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=darktheDE&show_icons=true&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/darktheDE/github-readme-stats">
-    <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darktheDE&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=320" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darktheDE&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" />
   </a>
 </div>
 
