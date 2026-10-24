@@ -2,7 +2,7 @@
 
 # Do Kien Hung (darktheDE) 👋
 
-**IT Audit Intern @ Deloitte Vietnam** · **Final-Year Data Engineering Student @ HCM-UTE**
+**IT Data Analyst @ Deloitte Vietnam** · **Final-Year Data Engineering Student @ HCM-UTE**
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ## About Me
 
-- **Current Role:** IT Audit Intern at **Deloitte Vietnam**, supporting IT General Controls reviews and audit analytics.
+- **Current Role:** IT Data Analyst at **Deloitte Vietnam**, supporting IT General Controls reviews and audit analytics.
 - **Education:** Final-year Data Engineering student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)** — *Current GPA: 8.42 / 10.0*.
 - **Community Leadership:** Co-Founder & Vice Leader of [**HCMUTE RTIC**](https://github.com/HCMUTE-RTIC).
 
