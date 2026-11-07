@@ -29,33 +29,13 @@
 
 | Project | Description & Technical Implementation | Core Stack | Links |
 | :--- | :--- | :--- | :---: |
+| **ACDP (Academic Competition Platform)** | Lean Medallion Lakehouse & RAG copilot automating competition ingestion, Pydantic schema extraction, and DuckDB OLAP analytics. | `Crawl4AI` `Cloudflare R2` `Instructor` `DuckDB` `Qdrant` `Gemini` | [Repo](https://github.com/darktheDE/acdp-platform) |
 | **Vietnamese Banking Financial DWH** | End-to-end financial data warehouse analyzing 20+ years of Vietnamese banking data on BigQuery. | `BigQuery` `Python` `SQL` `Star Schema` `Looker Studio` | [Repo](https://github.com/darktheDE/vn-banking-dwh-analytics) · [Dashboard](https://datastudio.google.com/u/0/reporting/340892d5-4366-4e40-9403-47901040b1d7/page/v1e2F) |
 | **UTE Phone Hub (E-Commerce Platform)** | Full-stack e-commerce web platform for mobile devices and accessories. | `Next.js` `Spring Boot 3` `PostgreSQL` `Redis` `JWT` `Tailwind CSS` | [Repo](https://github.com/darktheDE/ute-phonehub) |
 | **Olist E-Commerce Lakehouse** | Data Lakehouse processing 100K+ Brazilian transaction records via Medallion Architecture. | `PySpark` `Delta Lake` `Apache Airflow` `MinIO S3` `Docker` | [Repo](https://github.com/darktheDE/Olist-E-Commerce-Lakehouse) · [Plane](https://sites.plane.so/issues/fb4056e1975041fb96f169aff25798e6) |
 | **Vietnamese LLM KV Cache Benchmark** | Quantitative benchmarking suite evaluating memory optimization techniques on Vietnamese Large Language Models. | `Python` `vLLM` `PyTorch` `TurboQuant` | [Repo](https://github.com/darktheDE/viet-llm-kvcache-benchmark) |
 
----
 
-## Technical Arsenal
-
-### Languages & Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,postgres,nextjs,spring,react,tailwind,bash,r" alt="Languages & Frameworks" />
-  </a>
-</p>
-
-### Data Engineering & Infrastructure
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,azure,docker,linux,git,redis,kafka,mongodb" alt="Data & Infrastructure" />
-  </a>
-</p>
-
-### Domain & Practice Areas
-- **Data Engineering:** Automated ELT/ETL Pipelines, Star Schema & Dimensional Modeling, Medallion Lakehouse Architecture, Apache Airflow.
-- **IT Audit & Internal Controls:** IT General Controls, Application Controls, Data Lineage & Reconciliation.
-- **Audit Analytics:** Advanced SQL queries, population profiling, outlier detection, data integrity verification.
 
 ---
 
