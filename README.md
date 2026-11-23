@@ -8,7 +8,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-darkthede.github.io-86BC25?style=flat-square&logo=googlechrome&logoColor=white)](https://darkthede.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darkthede-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/darkthede/)
-[![GitHub](https://img.shields.io/badge/GitHub-darktheDE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/darktheDE)
 [![RTIC Club](https://img.shields.io/badge/Club-HCMUTE_RTIC-10B981?style=flat-square&logo=target&logoColor=white)](https://github.com/HCMUTE-RTIC)
 [![Email](https://img.shields.io/badge/Email-dkh1105.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dkh1105.work@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=darktheDE&style=flat-square&color=86BC25&label=Profile+Views)](https://github.com/darktheDE)
@@ -19,9 +18,9 @@
 
 ## About Me
 
-- **Current Role:** IT Data Analyst at **Deloitte Vietnam**, supporting IT General Controls, IT Automated Controls, System Analysis, reviews and audit analytics.
-- **Education:** Data Engineering student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)** — *Current GPA: 3.52 / 4.0*.
-- **Community Leadership:** Co-Founder, Vice President of [**HCMUTE RTIC**](https://github.com/HCMUTE-RTIC).
+- IT Data Analyst at **Deloitte Vietnam**, supporting IT General Controls, IT Automated Controls, System Analysis, reviews and audit analytics.
+- Data Engineering student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)** — *Current GPA: 3.52 / 4.0*.
+- Co-Founder, Vice President of [**HCMUTE RTIC**](https://github.com/HCMUTE-RTIC).
 
 ---
 
