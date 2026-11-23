@@ -2,7 +2,7 @@
 
 # Do Kien Hung (darktheDE) 👋
 
-**IT Data Analyst @ Deloitte Vietnam** · **Final-Year Data Engineering Student @ HCM-UTE**
+**IT Data Analyst @ Deloitte Vietnam** · **Data Engineering Student @ HCM-UTE**
 
 <br/>
 
@@ -19,9 +19,9 @@
 
 ## About Me
 
-- **Current Role:** IT Data Analyst at **Deloitte Vietnam**, supporting IT General Controls reviews and audit analytics.
-- **Education:** Final-year Data Engineering student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)** — *Current GPA: 8.42 / 10.0*.
-- **Community Leadership:** Co-Founder & Vice Leader of [**HCMUTE RTIC**](https://github.com/HCMUTE-RTIC).
+- **Current Role:** IT Data Analyst at **Deloitte Vietnam**, supporting IT General Controls, IT Automated Controls, System Analysis, reviews and audit analytics.
+- **Education:** Data Engineering student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)** — *Current GPA: 3.52 / 4.0*.
+- **Community Leadership:** Co-Founder, Vice President of [**HCMUTE RTIC**](https://github.com/HCMUTE-RTIC).
 
 ---
 
@@ -29,7 +29,7 @@
 
 | Project | Description & Technical Implementation | Core Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **ACDP (Academic Competition Platform)** | Lean Medallion Lakehouse & RAG copilot automating competition ingestion, Pydantic schema extraction, and DuckDB OLAP analytics. | `Crawl4AI` `Cloudflare R2` `Instructor` `DuckDB` `Qdrant` `Gemini` | [Repo](https://github.com/darktheDE/acdp-platform) |
+| **ACDP (Academic Competition Platform)** | Medallion Lakehouse & RAG copilot automating competition ingestion, Pydantic schema extraction, and DuckDB OLAP analytics. | `Crawl4AI` `Cloudflare R2` `Instructor` `DuckDB` `Qdrant` `Gemini` | [Repo](https://github.com/darktheDE/acdp-platform) |
 | **Vietnamese Banking Financial DWH** | End-to-end financial data warehouse analyzing 20+ years of Vietnamese banking data on BigQuery. | `BigQuery` `Python` `SQL` `Star Schema` `Looker Studio` | [Repo](https://github.com/darktheDE/vn-banking-dwh-analytics) · [Dashboard](https://datastudio.google.com/u/0/reporting/340892d5-4366-4e40-9403-47901040b1d7/page/v1e2F) |
 | **UTE Phone Hub (E-Commerce Platform)** | Full-stack e-commerce web platform for mobile devices and accessories. | `Next.js` `Spring Boot 3` `PostgreSQL` `Redis` `JWT` `Tailwind CSS` | [Repo](https://github.com/darktheDE/ute-phonehub) |
 | **Olist E-Commerce Lakehouse** | Data Lakehouse processing 100K+ Brazilian transaction records via Medallion Architecture. | `PySpark` `Delta Lake` `Apache Airflow` `MinIO S3` `Docker` | [Repo](https://github.com/darktheDE/Olist-E-Commerce-Lakehouse) · [Plane](https://sites.plane.so/issues/fb4056e1975041fb96f169aff25798e6) |
